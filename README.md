@@ -2,7 +2,9 @@
 
 Backend API for a Tweet clone app. This project is being developed during the OmniStack Week by RocketSeat.  
 
-**What this API does is** - List posts, add new posts and like posts.
+**What this API does is** - Provide routes to be consumed by any clients that includes: web apps, mobile apps, tvs or any kind of device that connects to internet and provides a HTTP connection with this API. 
+
+The routes are for list posts, add new posts and like posts.
 
 It also comes with socket.io library to provide realtime comunication with its clients.
 
